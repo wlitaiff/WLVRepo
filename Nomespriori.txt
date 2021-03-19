@@ -10,3 +10,6 @@ Flauta
 Teclado
 Orgão
 Computador
+Teclado
+Mouse sem fio
+
